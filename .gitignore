@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# files to ignore on root
+visu_notebook_creator.ipynb
